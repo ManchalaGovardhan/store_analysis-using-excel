@@ -25,8 +25,4 @@ Channel Concentration: 100% of orders come from a single channel, which may repr
 Age Segment: 40% of orders are attributed to a specific age group — useful for targeted marketing.
 
 Tools Used
-Data Visualization: Power BI / Tableau / Excel (based on your actual tool)
-
-Data Source: [Specify source if available]
-
-How to Use
+Data Visualization: Excel 
